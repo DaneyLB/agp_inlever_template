@@ -12,7 +12,7 @@ De game Hatupatu is een horror game waarbij je het monster in de modderpoel moet
 | ------ |  ------ |
 | https://trello.com/b/41dZtZ39/mythe-team-05 | [Backlog]
 | Logboek (pdf)                             | [Logboek]
-| Game concept doc (pdf)                    | [GameDesignDoc]
+| https://mediacollegeamsterdam-my.sharepoint.com/:w:/g/personal/29623_ma-web_nl/Ec8XXCW4C4tJmICBSJebJegBV77YspaqnTZzTCMtZXcRMg?e=n9ofZF               | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
