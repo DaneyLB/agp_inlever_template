@@ -30,7 +30,7 @@ De game Hatupatu is een horror game waarbij je het monster in de modderpoel moet
 | ------ |  ------ |
 | https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/sprintreview02_team05.pdf  | [RetrospectiveVerslagen]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
-| Link naar online speelbaar prototype  | [Prototype]
+| http://29623.hosts2.ma-cloud.nl/HatupatuBuild/e  | [Prototype]
 | https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/Logboek%20Mythe%20Daney.pdf                   | [Logboek]
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
