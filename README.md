@@ -11,7 +11,7 @@ De game Hatupatu is een horror game waarbij je het monster in de modderpoel moet
 | Product  | Link |
 | ------ |  ------ |
 | https://trello.com/b/41dZtZ39/mythe-team-05 | [Backlog]
-| https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/Logboek%20Mythe%20Daney.pdf                | [Logboek]
+| https://github.com/DaneyLB/agp_inlever_template/tree/master/producten/logboeken                | [Logboek]
 | https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/HatuPatu%20In%20The%20Dark%20Forest.pdf             | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
    
@@ -20,7 +20,7 @@ De game Hatupatu is een horror game waarbij je het monster in de modderpoel moet
 | ------ |  ------ |
 | https://trello.com/b/41dZtZ39/mythe-team-05    | [Backlog]
 | https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/sprintreview01_team05.pdf                   | [RetrospectiveVerslagen]
-| https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/Logboek%20Mythe%20Daney.pdf                                          | [Logboek]
+| https://github.com/DaneyLB/agp_inlever_template/tree/master/producten/logboeken                                        | [Logboek]
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
 | Opnames standups (Teams opnames)                          | [Folder op teams]
 |<img width=500/>|<img width=300/>|
@@ -31,7 +31,7 @@ De game Hatupatu is een horror game waarbij je het monster in de modderpoel moet
 | https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/sprintreview02_team05.pdf  | [RetrospectiveVerslagen]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | http://29623.hosts2.ma-cloud.nl/HatupatuBuild/e  | [Prototype]
-| https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/Logboek%20Mythe%20Daney.pdf                   | [Logboek]
+| https://github.com/DaneyLB/agp_inlever_template/tree/master/producten/logboeken                   | [Logboek]
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
