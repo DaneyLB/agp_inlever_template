@@ -19,8 +19,8 @@ De game Hatupatu is een horror game waarbij je het monster in de modderpoel moet
 | Product  | Link |
 | ------ |  ------ |
 | https://trello.com/b/41dZtZ39/mythe-team-05    | [Backlog]
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
-| Logboek (pdf)                                             | [Logboek]
+| https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/sprintreview01_team05.pdf                   | [RetrospectiveVerslagen]
+| https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/Logboek%20Mythe%20Daney.pdf                                          | [Logboek]
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
 | Opnames standups (Teams opnames)                          | [Folder op teams]
 |<img width=500/>|<img width=300/>|
@@ -28,10 +28,10 @@ De game Hatupatu is een horror game waarbij je het monster in de modderpoel moet
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
+| https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/sprintreview02_team05.pdf  | [RetrospectiveVerslagen]
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Link naar online speelbaar prototype  | [Prototype]
-| Logboek (pdf)                         | [Logboek]
+| https://github.com/DaneyLB/agp_inlever_template/blob/master/producten/Logboek%20Mythe%20Daney.pdf                   | [Logboek]
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
