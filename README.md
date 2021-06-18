@@ -1,17 +1,16 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Hatupatu]
+Project team:Dáney , Jason , Simon , Lucas , Tijn
 
 Platform:
-[jullie platfom]
+PC
 
 ### Korte omschrijving van de game
-...
+De game Hatupatu is een horror game waarbij je het monster in de modderpoel moet lijden
 
----
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]
+| https://trello.com/b/41dZtZ39/mythe-team-05 | [Backlog]
 | Logboek (pdf)                             | [Logboek]
 | Game concept doc (pdf)                    | [GameDesignDoc]
 |<img width=500/>|<img width=300/>|
@@ -19,7 +18,7 @@ Platform:
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
+| https://trello.com/b/41dZtZ39/mythe-team-05    | [Backlog]
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
 | Logboek (pdf)                                             | [Logboek]
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
